@@ -1,1 +1,14 @@
 MSSQL Proiler
+Data Attachment  Ðính kèm d? li?u
+Product Properties Tính ch?t c?a s?n ph?m
+Product tag		the san pham
+Data_Staff_WorkingProcess	quy trinh lam viec cua nhan vien
+
+
+GPID 1		gioi tinh
+	5	home vs adim page
+	9	hoat dong nghi viec
+	12	ch?c v?
+	24	loai tien
+
+
